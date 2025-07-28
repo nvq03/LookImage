@@ -1,0 +1,23 @@
+
+1) sudo apt update
+2) sudo apt upgrade
+
+// add server
+3) sudo apt install apache2
+4) sudo apt install libapache2-mod-php
+
+// add database
+sudo apt install mariadb-server php-mysql -y
+sudo mysql done
+CREATE USER `admin`@`localhost` IDENTIFIED BY 'qazqaz01';
+GRANT ALL PRIVILEGES ON *.* to `admin`@`localhost` WITH GRANT OPTION;
+
+// add phpmyadmin
+5) sudo apt-get install phpmyadmin
+6) sudo nano /etc/apache2/apache2.conf
+7) Include /etc/phpmyadmin/apache.conf
+
+// setup website
+8) /var/www/html/
+9) copy the github files
+
