@@ -1,4 +1,4 @@
-package com.qateam.lookimage
+package com.quy.lookimage
 
 import android.app.Activity
 import android.app.AlertDialog

@@ -1,4 +1,4 @@
-package com.qateam.lookimage
+package com.quy.lookimage
 
 import android.content.Context
 

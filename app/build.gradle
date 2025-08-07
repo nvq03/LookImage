@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.qateam.lookimage'
+    namespace 'com.quy.lookimage'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.qateam.lookimage"
+        applicationId "com.quy.lookimage"
         minSdk 24
         targetSdk 34
         versionCode 1
